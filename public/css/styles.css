@@ -89,20 +89,20 @@ nav > ul {
   font-size: 1.125rem;
 }
 
-/* button {
+button {
   border: 0;
   background-color: cornflowerblue;
   font-weight: bold;
   padding:  .375rem;
   box-shadow: 2px 2px #000a;
-} */
+}
 
 #own-btn {
   height: 32px;
 }
 
 .text-center {
- text-align: center;
+text-align: center;
 }
 
 
